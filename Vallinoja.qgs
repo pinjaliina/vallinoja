@@ -1,20 +1,20 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.18.9">
+<qgis projectname="" version="2.18.23">
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja20180918153358731" source="/Users/juliuskrotzl/Documents/GitHub/vallinoja/Vallinoja.shp" name="Vallinoja">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja20180918153358731" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/Vallinoja.shp" name="Vallinoja">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20180925142837266" source="/Users/juliuskrotzl/Documents/GitHub/vallinoja/asemavaraus.shp" name="asemavaraus">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20180925142837266" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="asemavaraus">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Asemat_polygonit_2015' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Asemat_polygonit_2015">
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Asemat_polygonit_2015' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Asemat_polygonit_2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" source="/Users/juliuskrotzl/Documents/GitHub/vallinoja/paikalliset/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon" name="Rakennukset_alueina Rakennukset_alueina Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" source="/Users/Shared/pCloud/HY/Maantiede/FM/RelatedData/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon" name="Rakennukset_alueina Rakennukset_alueina Polygon">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_tiet20180925134255723" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:tiet' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:tiet">
@@ -23,46 +23,31 @@
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="paituli_syke_uoma_201520180925131702249" source=" srsname='EPSG:3067' typename='paituli:syke_uoma_2015' url='http://avaa.tdata.fi/geoserver/paituli/wfs?' table=&quot;&quot; sql=" name="paituli:syke_uoma_2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="l_jrata_polyline20181002181215015" source="/Users/juliuskrotzl/Documents/GitHub/vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="l_jrata_polyline20181002181215015" source="/Users/Shared/VMware Shared/ArcGIS Work Folder/56266/Exercise2_Data/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_Kavely10min20180925133541123" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Kavely10min">
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_Kavely10min20180925133541123" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Kavely10min">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="RautatieLden1220180925135832553" source="/Users/juliuskrotzl/Documents/GitHub/vallinoja/paikalliset/melualueet/RautatieLden12.shp" name="RautatieLden12">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="RautatieLden1220180925135832553" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/RautatieLden12.shp" name="RautatieLden12">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LentoLden1220180925135647731" source="/Users/juliuskrotzl/Documents/GitHub/vallinoja/paikalliset/melualueet/LentoLden12.shp" name="LentoLden12">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="LentoLden1220180925135647731" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/LentoLden12.shp" name="LentoLden12">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="Rakennustietoruudukko_201720180925141339086" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=asuminen_ja_maankaytto:Rakennustietoruudukko_2017&amp;styles=&amp;url=https://kartta.hsy.fi/geoserver/wms" name="Rakennustietoruudukko_2017">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="TieLden1220180925135612132" source="/Users/juliuskrotzl/Documents/GitHub/vallinoja/paikalliset/melualueet/TieLden12.shp" name="TieLden12">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="TieLden1220180925135612132" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/TieLden12.shp" name="TieLden12">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="Yleiskaava20180925142312853" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=kaava:yleiskaava&amp;styles=&amp;url=http://gis.vantaa.fi/geoserver/wms?request%3DGetCapabilities" name="Yleiskaava">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat">
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_Vaestotietoruudukko_201720180925134429627" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Vaestotietoruudukko_2017' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Vaestotietoruudukko_2017">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="wfs_ostKohde20181002191508848" source=" restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_ostKohde' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table=&quot;&quot; sql=" name="wfs_ostKohde">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="wfs_MkLiikenne20181002191508711" source=" restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_MkLiikenne' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table=&quot;&quot; sql=" name="wfs_MkLiikenne">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="wfs_ostLiikenne20181002191508581" source=" restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_ostLiikenne' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table=&quot;&quot; sql=" name="wfs_ostLiikenne">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="wfs_MkKohde20181002191508451" source=" restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_MkKohde' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table=&quot;&quot; sql=" name="wfs_MkKohde">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="wfs_ostKohde20181002191459930" source=" restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_ostKohde' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table=&quot;&quot; sql=" name="wfs_ostKohde">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="paituli_syke_pohjavesialueet_201520180925144845616" source=" srsname='EPSG:3067' typename='paituli:syke_pohjavesialueet_2015' url='http://avaa.tdata.fi/geoserver/paituli/wfs?' table=&quot;&quot; sql=" name="paituli:syke_pohjavesialueet_2015">
@@ -79,10 +64,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>25503028.31112760305404663</xmin>
-      <ymin>6693295.3679463230073452</ymin>
-      <xmax>25505104.05711028724908829</xmax>
-      <ymax>6695858.77756228484213352</ymax>
+      <xmin>-1</xmin>
+      <ymin>-1</ymin>
+      <xmax>1</xmax>
+      <ymax>1</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -105,16 +90,13 @@
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="kaava_yleiskaava_muut_alueet20180918162918081"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="Rajapinnat_GTK_Maapera_WFS_maapera_20k_maalajit20180925152932374"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="taustakartat_ja_aluejaot_pks_postinumeroalueet_201720180925133712101"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkJoukkoliikenne20181002191852124"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_Vaestotietoruudukko_201720180925134429627"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="Yleiskaava20180925142312853"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kaupunkikartta20180918153457199"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="wfs_ostLiikenne20181002191508581"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_maanpeite_puusto_15_20m_201620180925145810475"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_tiet20180925134255723"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_1000m_verkostobufferi20181002190023694"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_vedet20180918164637420"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_Kavely10min20180925133541123"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="LentoLden1220180925135647731"/>
@@ -126,15 +108,11 @@
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkLiikenne20180925152538873"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkTuulivoima20180925152520035"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asemavaraus20180925142837266"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="wfs_MkKohde20181002191508451"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ortoilmakuva_201720180918161808768"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="wfs_MkLiikenne20181002191508711"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="wfs_ostKohde20181002191459930"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="SYKE__Pohjavesialueet__1_20_000__201520180925144603234"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="RautatieLden1220180925135832553"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="maapera_100k_pintakerros20180925153126949"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="TieLden1220180925135612132"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="WFS_WFS_VoimassaOlevienKaavojenYhdistelma_wfs_kaavaAlue20181002191303749"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenStreetMap20180925133357892"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="l_jrata_polyline20180925140234478"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_syke_pohjavesialueet_201520180925144845616"/>
@@ -142,8 +120,6 @@
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="Vallinoja20180918153358731"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_tike_vaestontiheys_201220180925130558623"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_syke_uoma_201520180925131702249"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkJoukkoliikenne20181002191856542"/>
-      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="wfs_ostKohde20181002191508848"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="kaava_yleiskaava_kt_alueet20180918162756095"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkKohde20180925152125258"/>
@@ -170,11 +146,6 @@
       <item>asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921</item>
       <item>asuminen_ja_maankaytto_maanpeite_puusto_15_20m_201620180925145810475</item>
       <item>l_jrata_polyline20181002181215015</item>
-      <item>wfs_ostKohde20181002191459930</item>
-      <item>wfs_MkKohde20181002191508451</item>
-      <item>wfs_ostLiikenne20181002191508581</item>
-      <item>wfs_MkLiikenne20181002191508711</item>
-      <item>wfs_ostKohde20181002191508848</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
@@ -188,9 +159,9 @@
         <legendlayerfile isInOverview="0" layerid="asemavaraus20180925142837266" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:Asemat_polygonit_2015" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:Asemat_polygonit_2015" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Rakennukset_alueina Rakennukset_alueina Polygon" showFeatureCount="0">
@@ -208,14 +179,14 @@
         <legendlayerfile isInOverview="0" layerid="paituli_syke_uoma_201520180925131702249" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="l_jrata_polyline" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="l_jrata_polyline" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="l_jrata_polyline20181002181215015" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="l_jrata_polyline20181002181215015" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:Kavely10min" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:Kavely10min" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Kavely10min20180925133541123" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Kavely10min20180925133541123" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RautatieLden12" showFeatureCount="0">
@@ -223,8 +194,8 @@
         <legendlayerfile isInOverview="0" layerid="RautatieLden1220180925135832553" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="LentoLden12" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="LentoLden12" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="LentoLden1220180925135647731" visible="0"/>
       </filegroup>
     </legendlayer>
@@ -233,9 +204,9 @@
         <legendlayerfile isInOverview="0" layerid="Rakennustietoruudukko_201720180925141339086" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="TieLden12" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="TieLden12" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="TieLden1220180925135612132" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="TieLden1220180925135612132" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Yleiskaava" showFeatureCount="0">
@@ -243,39 +214,14 @@
         <legendlayerfile isInOverview="0" layerid="Yleiskaava20180925142312853" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:Vaestotietoruudukko_2017" showFeatureCount="0">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Vaestotietoruudukko_201720180925134429627" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="wfs_ostKohde" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="wfs_ostKohde20181002191508848" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="wfs_MkLiikenne" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="wfs_MkLiikenne20181002191508711" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="wfs_ostLiikenne" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="wfs_ostLiikenne20181002191508581" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="wfs_MkKohde" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="wfs_MkKohde20181002191508451" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="wfs_ostKohde" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="wfs_ostKohde20181002191459930" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="paituli:syke_pohjavesialueet_2015" showFeatureCount="0">
@@ -746,7 +692,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053</id>
-      <datasource>./paikalliset/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon</datasource>
+      <datasource>../../FM/RelatedData/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1482,111 +1428,12 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 attr="Melu_db" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
-        <categories>
-          <category render="true" symbol="0" value="50-55" label="50-55"/>
-          <category render="true" symbol="1" value="55-60" label="55-60"/>
-          <category render="true" symbol="2" value="60-65" label="60-65"/>
-          <category render="true" symbol="3" value="65-70" label="65-70"/>
-          <category render="true" symbol="4" value="70-75" label="70-75"/>
-          <category render="true" symbol="5" value=">75" label=">75"/>
-          <category render="false" symbol="6" value="" label=""/>
-        </categories>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="252,199,199,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="250,155,177,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="247,104,161,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="214,52,146,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="172,18,132,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="5">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="122,1,119,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="6">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="254,235,226,0"/>
+              <prop k="color" v="150,43,69,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1599,176 +1446,11 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </symbols>
-        <source-symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="237,21,6,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-        </source-symbol>
-        <colorramp type="gradient" name="[source]">
-          <prop k="color1" v="254,235,226,255"/>
-          <prop k="color2" v="122,1,119,255"/>
-          <prop k="discrete" v="0"/>
-          <prop k="stops" v="0.25;251,180,185,255:0.5;247,104,161,255:0.75;197,27,138,255"/>
-        </colorramp>
-        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
       <labeling type="simple"/>
-      <customproperties>
-        <property key="labeling" value="pal"/>
-        <property key="labeling/addDirectionSymbol" value="false"/>
-        <property key="labeling/angleOffset" value="0"/>
-        <property key="labeling/blendMode" value="0"/>
-        <property key="labeling/bufferBlendMode" value="0"/>
-        <property key="labeling/bufferColorA" value="255"/>
-        <property key="labeling/bufferColorB" value="255"/>
-        <property key="labeling/bufferColorG" value="255"/>
-        <property key="labeling/bufferColorR" value="255"/>
-        <property key="labeling/bufferDraw" value="false"/>
-        <property key="labeling/bufferJoinStyle" value="128"/>
-        <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="1"/>
-        <property key="labeling/bufferSizeInMapUnits" value="false"/>
-        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/bufferTransp" value="0"/>
-        <property key="labeling/centroidInside" value="false"/>
-        <property key="labeling/centroidWhole" value="false"/>
-        <property key="labeling/decimals" value="3"/>
-        <property key="labeling/displayAll" value="false"/>
-        <property key="labeling/dist" value="0"/>
-        <property key="labeling/distInMapUnits" value="false"/>
-        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/drawLabels" value="false"/>
-        <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
-        <property key="labeling/fitInPolygonOnly" value="false"/>
-        <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value=".SF NS Text"/>
-        <property key="labeling/fontItalic" value="false"/>
-        <property key="labeling/fontLetterSpacing" value="0"/>
-        <property key="labeling/fontLimitPixelSize" value="false"/>
-        <property key="labeling/fontMaxPixelSize" value="10000"/>
-        <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="13"/>
-        <property key="labeling/fontSizeInMapUnits" value="false"/>
-        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/fontStrikeout" value="false"/>
-        <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="50"/>
-        <property key="labeling/fontWordSpacing" value="0"/>
-        <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
-        <property key="labeling/labelOffsetInMapUnits" value="true"/>
-        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/labelPerPart" value="false"/>
-        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
-        <property key="labeling/limitNumLabels" value="false"/>
-        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
-        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
-        <property key="labeling/maxNumLabels" value="2000"/>
-        <property key="labeling/mergeLines" value="false"/>
-        <property key="labeling/minFeatureSize" value="0"/>
-        <property key="labeling/multilineAlign" value="4294967295"/>
-        <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value=""/>
-        <property key="labeling/obstacle" value="true"/>
-        <property key="labeling/obstacleFactor" value="1"/>
-        <property key="labeling/obstacleType" value="0"/>
-        <property key="labeling/offsetType" value="0"/>
-        <property key="labeling/placeDirectionSymbol" value="0"/>
-        <property key="labeling/placement" value="1"/>
-        <property key="labeling/placementFlags" value="10"/>
-        <property key="labeling/plussign" value="false"/>
-        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
-        <property key="labeling/preserveRotation" value="true"/>
-        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
-        <property key="labeling/priority" value="5"/>
-        <property key="labeling/quadOffset" value="4"/>
-        <property key="labeling/repeatDistance" value="0"/>
-        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/repeatDistanceUnit" value="1"/>
-        <property key="labeling/reverseDirectionSymbol" value="false"/>
-        <property key="labeling/rightDirectionSymbol" value=">"/>
-        <property key="labeling/scaleMax" value="10000000"/>
-        <property key="labeling/scaleMin" value="1"/>
-        <property key="labeling/scaleVisibility" value="false"/>
-        <property key="labeling/shadowBlendMode" value="6"/>
-        <property key="labeling/shadowColorB" value="0"/>
-        <property key="labeling/shadowColorG" value="0"/>
-        <property key="labeling/shadowColorR" value="0"/>
-        <property key="labeling/shadowDraw" value="false"/>
-        <property key="labeling/shadowOffsetAngle" value="135"/>
-        <property key="labeling/shadowOffsetDist" value="1"/>
-        <property key="labeling/shadowOffsetGlobal" value="true"/>
-        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowOffsetUnits" value="1"/>
-        <property key="labeling/shadowRadius" value="1.5"/>
-        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
-        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowRadiusUnits" value="1"/>
-        <property key="labeling/shadowScale" value="100"/>
-        <property key="labeling/shadowTransparency" value="30"/>
-        <property key="labeling/shadowUnder" value="0"/>
-        <property key="labeling/shapeBlendMode" value="0"/>
-        <property key="labeling/shapeBorderColorA" value="255"/>
-        <property key="labeling/shapeBorderColorB" value="128"/>
-        <property key="labeling/shapeBorderColorG" value="128"/>
-        <property key="labeling/shapeBorderColorR" value="128"/>
-        <property key="labeling/shapeBorderWidth" value="0"/>
-        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeBorderWidthUnits" value="1"/>
-        <property key="labeling/shapeDraw" value="false"/>
-        <property key="labeling/shapeFillColorA" value="255"/>
-        <property key="labeling/shapeFillColorB" value="255"/>
-        <property key="labeling/shapeFillColorG" value="255"/>
-        <property key="labeling/shapeFillColorR" value="255"/>
-        <property key="labeling/shapeJoinStyle" value="64"/>
-        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeOffsetUnits" value="1"/>
-        <property key="labeling/shapeOffsetX" value="0"/>
-        <property key="labeling/shapeOffsetY" value="0"/>
-        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeRadiiUnits" value="1"/>
-        <property key="labeling/shapeRadiiX" value="0"/>
-        <property key="labeling/shapeRadiiY" value="0"/>
-        <property key="labeling/shapeRotation" value="0"/>
-        <property key="labeling/shapeRotationType" value="0"/>
-        <property key="labeling/shapeSVGFile" value=""/>
-        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeSizeType" value="0"/>
-        <property key="labeling/shapeSizeUnits" value="1"/>
-        <property key="labeling/shapeSizeX" value="0"/>
-        <property key="labeling/shapeSizeY" value="0"/>
-        <property key="labeling/shapeTransparency" value="0"/>
-        <property key="labeling/shapeType" value="0"/>
-        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
-        <property key="labeling/textColorA" value="255"/>
-        <property key="labeling/textColorB" value="0"/>
-        <property key="labeling/textColorG" value="0"/>
-        <property key="labeling/textColorR" value="0"/>
-        <property key="labeling/textTransp" value="0"/>
-        <property key="labeling/upsidedownLabels" value="0"/>
-        <property key="labeling/useSubstitutions" value="false"/>
-        <property key="labeling/wrapChar" value=""/>
-        <property key="labeling/xOffset" value="0"/>
-        <property key="labeling/yOffset" value="0"/>
-        <property key="labeling/zIndex" value="0"/>
-        <property key="variableNames"/>
-        <property key="variableValues"/>
-      </customproperties>
+      <customproperties/>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
@@ -1794,35 +1476,6 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
-          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
-        </DiagramCategory>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
-          <layer pass="0" class="SimpleMarker" locked="0">
-            <prop k="angle" v="0"/>
-            <prop k="color" v="255,0,0,255"/>
-            <prop k="horizontal_anchor_point" v="1"/>
-            <prop k="joinstyle" v="bevel"/>
-            <prop k="name" v="circle"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,255"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0"/>
-            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="scale_method" v="diameter"/>
-            <prop k="size" v="2"/>
-            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="size_unit" v="MM"/>
-            <prop k="vertical_anchor_point" v="1"/>
-          </layer>
-        </symbol>
-      </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <aliases>
         <alias field="MeluselvTu" index="0" name=""/>
@@ -1836,37 +1489,13 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns>
-          <column width="-1" hidden="0" type="field" name="MeluselvTu"/>
-          <column width="-1" hidden="0" type="field" name="Melu_db"/>
-          <column width="-1" hidden="0" type="field" name="MuutosPvm"/>
-          <column width="-1" hidden="0" type="field" name="URL_meluse"/>
-          <column width="-1" hidden="0" type="field" name="Shape_STAr"/>
-          <column width="-1" hidden="0" type="field" name="Shape_STLe"/>
-          <column width="-1" hidden="1" type="actions"/>
-        </columns>
+        <columns/>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
-"""
-QGIS forms can have a Python function that is called when the form is
-opened.
-
-Use this function to add extra logic to your forms.
-
-Enter the name of the function in the "Python Init function"
-field.
-An example follows:
-"""
-from qgis.PyQt.QtWidgets import QWidget
-
-def my_form_open(dialog, layer, feature):
-	geom = feature.geometry()
-	control = dialog.findChild(QWidget, "MyLineEdit")
-]]></editforminitcode>
+      <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <widgets/>
@@ -3792,9 +3421,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns>
-          <column width="-1" hidden="1" type="actions"/>
-        </columns>
+        <columns/>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
@@ -3809,7 +3436,7 @@ def my_form_open(dialog, layer, feature):
         <fieldstyles/>
       </conditionalstyles>
       <defaults/>
-      <previewExpression>'[Please define preview text]'</previewExpression>
+      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318</id>
@@ -4100,7 +3727,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>l_jrata_polyline20181002181215015</id>
-      <datasource>./paikalliset/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp</datasource>
+      <datasource>../../../../../VMware Shared/ArcGIS Work Folder/56266/Exercise2_Data/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5086,720 +4713,6 @@ def my_form_open(dialog, layer, feature):
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>wfs_MkKohde20181002191508451</id>
-      <datasource> restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_MkKohde' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table="" sql=</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>wfs_MkKohde</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=35 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>1030</srsid>
-          <srid>3067</srid>
-          <authid>EPSG:3067</authid>
-          <description>ETRS89 / ETRS-TM35FIN</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="UTF-8">WFS</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="digpohja">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="luontipvm">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="muutospvm">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Kaava">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Plan">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Selite">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Forklaring">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="mm_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="bb_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="132,11,23,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties/>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>digpohja</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name=".SF NS Text"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <annotationform></annotationform>
-      <aliases>
-        <alias field="digpohja" index="0" name=""/>
-        <alias field="luontipvm" index="1" name=""/>
-        <alias field="muutospvm" index="2" name=""/>
-        <alias field="Kaava" index="3" name=""/>
-        <alias field="Plan" index="4" name=""/>
-        <alias field="Selite" index="5" name=""/>
-        <alias field="Forklaring" index="6" name=""/>
-        <alias field="mm_url" index="7" name=""/>
-        <alias field="bb_url" index="8" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
-      </attributetableconfig>
-      <editform></editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="digpohja" expression=""/>
-        <default field="luontipvm" expression=""/>
-        <default field="muutospvm" expression=""/>
-        <default field="Kaava" expression=""/>
-        <default field="Plan" expression=""/>
-        <default field="Selite" expression=""/>
-        <default field="Forklaring" expression=""/>
-        <default field="mm_url" expression=""/>
-        <default field="bb_url" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>wfs_MkLiikenne20181002191508711</id>
-      <datasource> restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_MkLiikenne' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table="" sql=</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>wfs_MkLiikenne</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=35 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>1030</srsid>
-          <srid>3067</srid>
-          <authid>EPSG:3067</authid>
-          <description>ETRS89 / ETRS-TM35FIN</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="UTF-8">WFS</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="digpohja">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="luontipvm">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="muutospvm">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Kaava">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Plan">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Selite">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Forklaring">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="mm_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="bb_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="line" name="0">
-            <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="5;2"/>
-              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="customdash_unit" v="MM"/>
-              <prop k="draw_inside_polygon" v="0"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="143,227,243,255"/>
-              <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.26"/>
-              <prop k="line_width_unit" v="MM"/>
-              <prop k="offset" v="0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="use_custom_dash" v="0"/>
-              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties/>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>digpohja</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name=".SF NS Text"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <annotationform></annotationform>
-      <aliases>
-        <alias field="digpohja" index="0" name=""/>
-        <alias field="luontipvm" index="1" name=""/>
-        <alias field="muutospvm" index="2" name=""/>
-        <alias field="Kaava" index="3" name=""/>
-        <alias field="Plan" index="4" name=""/>
-        <alias field="Selite" index="5" name=""/>
-        <alias field="Forklaring" index="6" name=""/>
-        <alias field="mm_url" index="7" name=""/>
-        <alias field="bb_url" index="8" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="-1939135032">
-        <columns/>
-      </attributetableconfig>
-      <editform></editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="digpohja" expression=""/>
-        <default field="luontipvm" expression=""/>
-        <default field="muutospvm" expression=""/>
-        <default field="Kaava" expression=""/>
-        <default field="Plan" expression=""/>
-        <default field="Selite" expression=""/>
-        <default field="Forklaring" expression=""/>
-        <default field="mm_url" expression=""/>
-        <default field="bb_url" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>wfs_ostKohde20181002191459930</id>
-      <datasource> restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_ostKohde' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table="" sql=</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>wfs_ostKohde</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=35 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>1030</srsid>
-          <srid>3067</srid>
-          <authid>EPSG:3067</authid>
-          <description>ETRS89 / ETRS-TM35FIN</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="UTF-8">WFS</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="Kaava">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Plan">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Selite">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Forklaring">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="mm_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="bb_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="0,232,77,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties/>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>Kaava</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name=".SF NS Text"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <annotationform></annotationform>
-      <aliases>
-        <alias field="Kaava" index="0" name=""/>
-        <alias field="Plan" index="1" name=""/>
-        <alias field="Selite" index="2" name=""/>
-        <alias field="Forklaring" index="3" name=""/>
-        <alias field="mm_url" index="4" name=""/>
-        <alias field="bb_url" index="5" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
-      </attributetableconfig>
-      <editform></editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="Kaava" expression=""/>
-        <default field="Plan" expression=""/>
-        <default field="Selite" expression=""/>
-        <default field="Forklaring" expression=""/>
-        <default field="mm_url" expression=""/>
-        <default field="bb_url" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>wfs_ostKohde20181002191508848</id>
-      <datasource> restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_ostKohde' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table="" sql=</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>wfs_ostKohde</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=35 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>1030</srsid>
-          <srid>3067</srid>
-          <authid>EPSG:3067</authid>
-          <description>ETRS89 / ETRS-TM35FIN</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="UTF-8">WFS</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="Kaava">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Plan">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Selite">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Forklaring">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="mm_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="bb_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="61,153,135,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties/>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>Kaava</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name=".SF NS Text"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <annotationform></annotationform>
-      <aliases>
-        <alias field="Kaava" index="0" name=""/>
-        <alias field="Plan" index="1" name=""/>
-        <alias field="Selite" index="2" name=""/>
-        <alias field="Forklaring" index="3" name=""/>
-        <alias field="mm_url" index="4" name=""/>
-        <alias field="bb_url" index="5" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
-      </attributetableconfig>
-      <editform></editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="Kaava" expression=""/>
-        <default field="Plan" expression=""/>
-        <default field="Selite" expression=""/>
-        <default field="Forklaring" expression=""/>
-        <default field="mm_url" expression=""/>
-        <default field="bb_url" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>wfs_ostLiikenne20181002191508581</id>
-      <datasource> restrictToRequestBBOX='1' srsname='EPSG:3067' typename='WFS_WFS_VoimassaOlevienKaavojenYhdistelma:wfs_ostLiikenne' url='http://kartta.uudenmaanliitto.fi/arcgis/services/WFS/WFS_VoimassaOlevienKaavojenYhdistelma/MapServer/WFSServer' version='auto' table="" sql=</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>wfs_ostLiikenne</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=35 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>1030</srsid>
-          <srid>3067</srid>
-          <authid>EPSG:3067</authid>
-          <description>ETRS89 / ETRS-TM35FIN</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="UTF-8">WFS</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="Kaava">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Plan">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Selite">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="Forklaring">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="mm_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="bb_url">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="line" name="0">
-            <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="5;2"/>
-              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="customdash_unit" v="MM"/>
-              <prop k="draw_inside_polygon" v="0"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="25,129,58,255"/>
-              <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.26"/>
-              <prop k="line_width_unit" v="MM"/>
-              <prop k="offset" v="0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="use_custom_dash" v="0"/>
-              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties/>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>Kaava</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name=".SF NS Text"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <annotationform></annotationform>
-      <aliases>
-        <alias field="Kaava" index="0" name=""/>
-        <alias field="Plan" index="1" name=""/>
-        <alias field="Selite" index="2" name=""/>
-        <alias field="Forklaring" index="3" name=""/>
-        <alias field="mm_url" index="4" name=""/>
-        <alias field="bb_url" index="5" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="2033637240">
-        <columns/>
-      </attributetableconfig>
-      <editform></editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="Kaava" expression=""/>
-        <default field="Plan" expression=""/>
-        <default field="Selite" expression=""/>
-        <default field="Forklaring" expression=""/>
-        <default field="mm_url" expression=""/>
-        <default field="bb_url" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
   </projectlayers>
   <properties>
     <Variables>
@@ -5868,21 +4781,11 @@ def my_form_open(dialog, layer, feature):
         <value>asuminen_ja_maankaytto_maanpeite_puusto_15_20m_201620180925145810475</value>
         <value>asuminen_ja_maankaytto_tiet20180925134255723</value>
         <value>asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318</value>
-        <value>l_jrata_polyline20181002181215015</value>
         <value>paituli_syke_pohjavesialueet_201520180925144845616</value>
         <value>paituli_syke_uoma_201520180925131702249</value>
-        <value>wfs_ostKohde20181002191459930</value>
-        <value>wfs_MkKohde20181002191508451</value>
-        <value>wfs_ostLiikenne20181002191508581</value>
-        <value>wfs_MkLiikenne20181002191508711</value>
-        <value>wfs_ostKohde20181002191508848</value>
+        <value>l_jrata_polyline20181002181215015</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
-        <value>disabled</value>
-        <value>disabled</value>
-        <value>disabled</value>
-        <value>disabled</value>
-        <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
@@ -5919,18 +4822,8 @@ def my_form_open(dialog, layer, feature):
         <value>2</value>
         <value>2</value>
         <value>2</value>
-        <value>1</value>
-        <value>1</value>
-        <value>1</value>
-        <value>1</value>
-        <value>1</value>
       </LayerSnappingToleranceUnitList>
       <LayerSnapToList type="QStringList">
-        <value>to_vertex_and_segment</value>
-        <value>to_vertex_and_segment</value>
-        <value>to_vertex_and_segment</value>
-        <value>to_vertex_and_segment</value>
-        <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
@@ -5951,11 +4844,6 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
       <LayerSnappingToleranceList type="QStringList">
-        <value>0.000000</value>
-        <value>0.000000</value>
-        <value>0.000000</value>
-        <value>0.000000</value>
-        <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
