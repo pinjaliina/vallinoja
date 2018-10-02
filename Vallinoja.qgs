@@ -23,7 +23,7 @@
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="paituli_syke_uoma_201520180925131702249" source=" srsname='EPSG:3067' typename='paituli:syke_uoma_2015' url='http://avaa.tdata.fi/geoserver/paituli/wfs?' table=&quot;&quot; sql=" name="paituli:syke_uoma_2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="l_jrata_polyline20181002181215015" source="/Users/Shared/VMware Shared/ArcGIS Work Folder/56266/Exercise2_Data/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="l_jrata_polyline20181002181215015" source="/Users/Shared/VMware Shared/ArcGIS Work Folder/56266/Exercise2_Data/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_Kavely10min20180925133541123" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Kavely10min">
@@ -38,22 +38,28 @@
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="Rakennustietoruudukko_201720180925141339086" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=asuminen_ja_maankaytto:Rakennustietoruudukko_2017&amp;styles=&amp;url=https://kartta.hsy.fi/geoserver/wms" name="Rakennustietoruudukko_2017">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="TieLden1220180925135612132" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/TieLden12.shp" name="TieLden12">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="TieLden1220180925135612132" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/TieLden12.shp" name="TieLden12">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="Yleiskaava20180925142312853" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=kaava:yleiskaava&amp;styles=&amp;url=http://gis.vantaa.fi/geoserver/wms?request%3DGetCapabilities" name="Yleiskaava">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat">
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_Vaestotietoruudukko_201720180925134429627" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Vaestotietoruudukko_2017' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Vaestotietoruudukko_2017">
       <customproperties/>
     </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="Maastokartta20181002191934645" source="contextualWMSLegend=0&amp;crs=EPSG:3067&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=maastokartta&amp;styles=default&amp;tileMatrixSet=ETRS-TM35FIN&amp;url=http://avoindata.maanmittauslaitos.fi/mapcache/wmts?service%3Dwmts%26request%3Dgetcapabilities%26version%3D1.0.0" name="Maastokartta">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="Taustakartta20181002191840945" source="contextualWMSLegend=0&amp;crs=EPSG:3067&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=taustakartta&amp;styles=default&amp;tileMatrixSet=ETRS-TM35FIN&amp;url=http://avoindata.maanmittauslaitos.fi/mapcache/wmts?service%3Dwmts%26request%3Dgetcapabilities%26version%3D1.0.0" name="Taustakartta">
+      <customproperties/>
+    </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="paituli_syke_pohjavesialueet_201520180925144845616" source=" srsname='EPSG:3067' typename='paituli:syke_pohjavesialueet_2015' url='http://avaa.tdata.fi/geoserver/paituli/wfs?' table=&quot;&quot; sql=" name="paituli:syke_pohjavesialueet_2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230">
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_maanpeite_puusto_15_20m_201620180925145810475" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:maanpeite_puusto_15_20m_2016' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:maanpeite_puusto_15_20m_2016">
@@ -64,10 +70,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-1</xmin>
-      <ymin>-1</ymin>
-      <xmax>1</xmax>
-      <ymax>1</ymax>
+      <xmin>25504057.14294641092419624</xmin>
+      <ymin>6693457.20665939431637526</ymin>
+      <xmax>25506132.8889290951192379</xmax>
+      <ymax>6696020.61627535615116358</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -115,15 +121,18 @@
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="TieLden1220180925135612132"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenStreetMap20180925133357892"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="l_jrata_polyline20180925140234478"/>
+      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="Taustakartta20181002191840945"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_syke_pohjavesialueet_201520180925144845616"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkMaisema20180925152307037"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="Vallinoja20180918153358731"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_tike_vaestontiheys_201220180925130558623"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_syke_uoma_201520180925131702249"/>
+      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="Maastokartta20181002191934645"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="kaava_yleiskaava_kt_alueet20180918162756095"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkKohde20180925152125258"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="asuminen_ja_maankaytto_maanpeite_puusto_yli_20m_201620180925145554313"/>
+      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="MML__Yleiskarttarasteri__1_250_000__201120181002191805363"/>
     </layer_coordinate_transform_info>
   </mapcanvas>
   <layer-tree-canvas>
@@ -146,6 +155,8 @@
       <item>asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921</item>
       <item>asuminen_ja_maankaytto_maanpeite_puusto_15_20m_201620180925145810475</item>
       <item>l_jrata_polyline20181002181215015</item>
+      <item>Taustakartta20181002191840945</item>
+      <item>Maastokartta20181002191934645</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
@@ -179,9 +190,9 @@
         <legendlayerfile isInOverview="0" layerid="paituli_syke_uoma_201520180925131702249" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="l_jrata_polyline" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="l_jrata_polyline" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="l_jrata_polyline20181002181215015" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="l_jrata_polyline20181002181215015" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:Kavely10min" showFeatureCount="0">
@@ -204,8 +215,8 @@
         <legendlayerfile isInOverview="0" layerid="Rakennustietoruudukko_201720180925141339086" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="TieLden12" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="TieLden12" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="TieLden1220180925135612132" visible="0"/>
       </filegroup>
     </legendlayer>
@@ -214,9 +225,9 @@
         <legendlayerfile isInOverview="0" layerid="Yleiskaava20180925142312853" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:Vaestotietoruudukko_2017" showFeatureCount="0">
@@ -224,14 +235,24 @@
         <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Vaestotietoruudukko_201720180925134429627" visible="0"/>
       </filegroup>
     </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Maastokartta" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Maastokartta20181002191934645" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Taustakartta" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Taustakartta20181002191840945" visible="1"/>
+      </filegroup>
+    </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="paituli:syke_pohjavesialueet_2015" showFeatureCount="0">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="paituli_syke_pohjavesialueet_201520180925144845616" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:maanpeite_puusto_15_20m_2016" showFeatureCount="0">
@@ -690,7 +711,58 @@ def my_form_open(dialog, layer, feature):
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-548576</xmin>
+        <ymin>6291456</ymin>
+        <xmax>1548576</xmax>
+        <ymax>8388608</ymax>
+      </extent>
+      <id>Maastokartta20181002191934645</id>
+      <datasource>contextualWMSLegend=0&amp;crs=EPSG:3067&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=maastokartta&amp;styles=default&amp;tileMatrixSet=ETRS-TM35FIN&amp;url=http://avoindata.maanmittauslaitos.fi/mapcache/wmts?service%3Dwmts%26request%3Dgetcapabilities%26version%3D1.0.0</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Maastokartta</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=35 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>1030</srsid>
+          <srid>3067</srid>
+          <authid>EPSG:3067</authid>
+          <description>ETRS89 / ETRS-TM35FIN</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Undefined"/>
+      </customproperties>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>25486099.41299999877810478</xmin>
+        <ymin>6680886.80499999970197678</ymin>
+        <xmax>25510432.87400000169873238</xmax>
+        <ymax>6698521.76200000010430813</ymax>
+      </extent>
       <id>Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053</id>
       <datasource>../../FM/RelatedData/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon</datasource>
       <keywordList>
@@ -1382,6 +1454,51 @@ def my_form_open(dialog, layer, feature):
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-548576</xmin>
+        <ymin>6291456</ymin>
+        <xmax>1548576</xmax>
+        <ymax>8388608</ymax>
+      </extent>
+      <id>Taustakartta20181002191840945</id>
+      <datasource>contextualWMSLegend=0&amp;crs=EPSG:3067&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=taustakartta&amp;styles=default&amp;tileMatrixSet=ETRS-TM35FIN&amp;url=http://avoindata.maanmittauslaitos.fi/mapcache/wmts?service%3Dwmts%26request%3Dgetcapabilities%26version%3D1.0.0</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Taustakartta</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=35 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>1030</srsid>
+          <srid>3067</srid>
+          <authid>EPSG:3067</authid>
+          <description>ETRS89 / ETRS-TM35FIN</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Undefined"/>
+      </customproperties>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>TieLden1220180925135612132</id>
       <datasource>./paikalliset/melualueet/TieLden12.shp</datasource>
@@ -1428,12 +1545,111 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+      <renderer-v2 attr="Melu_db" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
+        <categories>
+          <category render="true" symbol="0" value="50-55" label="50-55"/>
+          <category render="true" symbol="1" value="55-60" label="55-60"/>
+          <category render="true" symbol="2" value="60-65" label="60-65"/>
+          <category render="true" symbol="3" value="65-70" label="65-70"/>
+          <category render="true" symbol="4" value="70-75" label="70-75"/>
+          <category render="true" symbol="5" value=">75" label=">75"/>
+          <category render="false" symbol="6" value="" label=""/>
+        </categories>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="150,43,69,255"/>
+              <prop k="color" v="252,199,199,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="250,155,177,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="247,104,161,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="214,52,146,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="172,18,132,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="5">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="122,1,119,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="6">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="254,235,226,0"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1446,11 +1662,176 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </symbols>
+        <source-symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="237,21,6,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </source-symbol>
+        <colorramp type="gradient" name="[source]">
+          <prop k="color1" v="254,235,226,255"/>
+          <prop k="color2" v="122,1,119,255"/>
+          <prop k="discrete" v="0"/>
+          <prop k="stops" v="0.25;251,180,185,255:0.5;247,104,161,255:0.75;197,27,138,255"/>
+        </colorramp>
+        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
       <labeling type="simple"/>
-      <customproperties/>
+      <customproperties>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value=".SF NS Text"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="13"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value=""/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
@@ -1476,6 +1857,35 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <aliases>
         <alias field="MeluselvTu" index="0" name=""/>
@@ -1489,13 +1899,37 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="MeluselvTu"/>
+          <column width="-1" hidden="0" type="field" name="Melu_db"/>
+          <column width="-1" hidden="0" type="field" name="MuutosPvm"/>
+          <column width="-1" hidden="0" type="field" name="URL_meluse"/>
+          <column width="-1" hidden="0" type="field" name="Shape_STAr"/>
+          <column width="-1" hidden="0" type="field" name="Shape_STLe"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <widgets/>
@@ -2472,6 +2906,12 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>25456086.19229453802108765</xmin>
+        <ymin>6666573.8283788301050663</ymin>
+        <xmax>25517333.4071115255355835</xmax>
+        <ymax>6726991.73882314097136259</ymax>
+      </extent>
       <id>asuminen_ja_maankaytto_Kavely10min20180925133541123</id>
       <datasource> srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table="" sql=</datasource>
       <keywordList>
@@ -3439,6 +3879,12 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>25472770.99994795024394989</xmin>
+        <ymin>6666527.09875144995748997</ymin>
+        <xmax>25512839.62493672594428062</xmax>
+        <ymax>6697175.68747360073029995</ymax>
+      </extent>
       <id>asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318</id>
       <datasource> srsname='EPSG:3879' typename='asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table="" sql=</datasource>
       <keywordList>
@@ -4781,9 +5227,9 @@ def my_form_open(dialog, layer, feature):
         <value>asuminen_ja_maankaytto_maanpeite_puusto_15_20m_201620180925145810475</value>
         <value>asuminen_ja_maankaytto_tiet20180925134255723</value>
         <value>asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318</value>
+        <value>l_jrata_polyline20181002181215015</value>
         <value>paituli_syke_pohjavesialueet_201520180925144845616</value>
         <value>paituli_syke_uoma_201520180925131702249</value>
-        <value>l_jrata_polyline20181002181215015</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
         <value>disabled</value>
