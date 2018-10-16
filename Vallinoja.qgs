@@ -1,20 +1,20 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.18.23">
+<qgis projectname="" version="2.18.9">
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja20180918153358731" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/Vallinoja.shp" name="Vallinoja">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja20180918153358731" source="/Users/Shared/vallinoja/Vallinoja.shp" name="Vallinoja">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20180925142837266" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="asemavaraus">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20180925142837266" source="/Users/Shared/vallinoja/asemavaraus.shp" name="asemavaraus">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Asemat_polygonit_2015' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Asemat_polygonit_2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon" name="Rakennukset_alueina Rakennukset_alueina Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" source="/Users/Shared/vallinoja/paikalliset/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon" name="Rakennukset_alueina Rakennukset_alueina Polygon">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_tiet20180925134255723" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:tiet' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:tiet">
@@ -23,28 +23,28 @@
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="paituli_syke_uoma_201520180925131702249" source=" srsname='EPSG:3067' typename='paituli:syke_uoma_2015' url='http://avaa.tdata.fi/geoserver/paituli/wfs?' table=&quot;&quot; sql=" name="paituli:syke_uoma_2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="l_jrata_polyline20181002181215015" source="/Users/Shared/VMware Shared/ArcGIS Work Folder/56266/Exercise2_Data/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="l_jrata_polyline20181002181215015" source="/Users/Shared/vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_Kavely10min20180925133541123" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Kavely10min">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="RautatieLden1220180925135832553" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/RautatieLden12.shp" name="RautatieLden12">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="RautatieLden1220180925135832553" source="/Users/Shared/vallinoja/paikalliset/melualueet/RautatieLden12.shp" name="RautatieLden12">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="LentoLden1220180925135647731" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/LentoLden12.shp" name="LentoLden12">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="LentoLden1220180925135647731" source="/Users/Shared/vallinoja/paikalliset/melualueet/LentoLden12.shp" name="LentoLden12">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="Rakennustietoruudukko_201720180925141339086" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=asuminen_ja_maankaytto:Rakennustietoruudukko_2017&amp;styles=&amp;url=https://kartta.hsy.fi/geoserver/wms" name="Rakennustietoruudukko_2017">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="TieLden1220180925135612132" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/TieLden12.shp" name="TieLden12">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="TieLden1220180925135612132" source="/Users/Shared/vallinoja/paikalliset/melualueet/TieLden12.shp" name="TieLden12">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="Yleiskaava20180925142312853" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=kaava:yleiskaava&amp;styles=&amp;url=http://gis.vantaa.fi/geoserver/wms?request%3DGetCapabilities" name="Yleiskaava">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="SYKE_tulvariskialueet20181002205316196" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/SYKE_tulvariskialueet.json" name="SYKE_tulvariskialueet OGRGeoJSON Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="SYKE_tulvariskialueet20181002205316196" source="/Users/Shared/vallinoja/SYKE_tulvariskialueet.json" name="SYKE_tulvariskialueet OGRGeoJSON Polygon">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_vetta_lapaisemattomat_pinnat20180925133904318" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:vetta_lapaisemattomat_pinnat">
@@ -1661,6 +1661,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1686,7 +1687,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="OBJECTID" index="0" name=""/>
         <alias field="KohdeNro" index="1" name=""/>
@@ -1723,10 +1724,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -4119,7 +4120,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>l_jrata_polyline20181002181215015</id>
-      <datasource>../../../../../VMware Shared/ArcGIS Work Folder/56266/Exercise2_Data/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp</datasource>
+      <datasource>./paikalliset/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
