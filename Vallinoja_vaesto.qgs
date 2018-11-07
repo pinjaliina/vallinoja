@@ -5,9 +5,6 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="avoindata_Seutukartta_aluejako_suuralue20181024150307926" source=" srsname='EPSG:3879' typename='avoindata:Seutukartta_aluejako_suuralue' url='https://kartta.hel.fi/ws/geoserver/avoindata/wfs' table=&quot;&quot; sql=" name="avoindata:Seutukartta_aluejako_suuralue">
-      <customproperties/>
-    </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja20180918153358731" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/Vallinoja.shp" name="Vallinoja">
       <customproperties/>
     </layer-tree-layer>
@@ -17,16 +14,25 @@
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="avoindata_Seutukartta_aluejako_pienalue20181024145427721" source=" srsname='EPSG:3879' typename='avoindata:Seutukartta_aluejako_pienalue' url='https://kartta.hel.fi/ws/geoserver/avoindata/wfs' table=&quot;&quot; sql=" name="avoindata:Seutukartta_aluejako_pienalue">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="asemavaraus20180925142837266" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="asemavaraus">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="l_tiesto_polyline20181024165132452" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/l_tiesto_polyline.shp" name="l_tiesto_polyline">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="l_tiest2_polyline20181024165110474" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/l_tiest2_polyline.shp" name="l_tiest2_polyline">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_tiet20180925134255723" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:tiet' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:tiet">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="avoindata_Seutukartta_aluejako_suuralue20181024150307926" source=" srsname='EPSG:3879' typename='avoindata:Seutukartta_aluejako_suuralue' url='https://kartta.hel.fi/ws/geoserver/avoindata/wfs' table=&quot;&quot; sql=" name="avoindata:Seutukartta_aluejako_suuralue">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20180925142837266" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="asemavaraus">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Asemat_polygonit_2015' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Asemat_polygonit_2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon" name="Rakennukset_alueina Rakennukset_alueina Polygon">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_tiet20180925134255723" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:tiet' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:tiet">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/vantaa_rakennukset_gk25/Rakennukset_alueina.tab|layername=Rakennukset_alueina|geometrytype=Polygon" name="Rakennukset_alueina Rakennukset_alueina Polygon">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="paituli_syke_uoma_201520180925131702249" source=" srsname='EPSG:3067' typename='paituli:syke_uoma_2015' url='http://avaa.tdata.fi/geoserver/paituli/wfs?' table=&quot;&quot; sql=" name="paituli:syke_uoma_2015">
@@ -35,16 +41,19 @@
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="l_jrata_polyline20181002181215015" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_Kavely10min20180925133541123" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Kavely10min">
+    <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Checked" id="asuminen_ja_maankaytto_Kavely10min20180925133541123" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Kavely10min">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vaestotietoruudukko_201720181024132522467" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017.shp" name="vaestotietoruudukko_2017">
       <customproperties/>
     </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">
+      <customproperties/>
+    </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="RautatieLden1220180925135832553" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/RautatieLden12.shp" name="RautatieLden12">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="LentoLden1220180925135647731" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/LentoLden12.shp" name="LentoLden12">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LentoLden1220180925135647731" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/LentoLden12.shp" name="LentoLden12">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="Rakennustietoruudukko_201720180925141339086" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=asuminen_ja_maankaytto:Rakennustietoruudukko_2017&amp;styles=&amp;url=https://kartta.hsy.fi/geoserver/wms" name="Rakennustietoruudukko_2017">
@@ -53,10 +62,7 @@
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="TieLden1220180925135612132" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/TieLden12.shp" name="TieLden12">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="Yleiskaava20180925142312853" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=kaava:yleiskaava&amp;styles=&amp;url=http://gis.vantaa.fi/geoserver/wms?request%3DGetCapabilities" name="Yleiskaava">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="Yleiskaava20180925142312853" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=kaava:yleiskaava&amp;styles=&amp;url=http://gis.vantaa.fi/geoserver/wms?request%3DGetCapabilities" name="Yleiskaava">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230">
@@ -88,7 +94,9 @@
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <layer_coordinate_transform_info>
+      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="l_tiesto_polyline20181024165132452"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkPohjavesi20180925152457906"/>
+      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="avoindata_Seutukartta_liikenne_paatiet20181024164950622"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="hsy_vaestotietoruudukko20181024132418946"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="l_jrata_polyline20181002181215015"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="kaava_yleiskaava_muut_alueet20180918162918081"/>
@@ -128,6 +136,7 @@
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_syke_pohjavesialueet_201520180925144845616"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="SYKE_tulvariskialueet20181002204447500"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3047" srcDatumTransform="-1" destDatumTransform="-1" layerid="MkMaisema20180925152307037"/>
+      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="l_tiest2_polyline20181024165110474"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="Vallinoja20180918153358731"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="Tulvariskialueet20181002203758030"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3067" srcDatumTransform="-1" destDatumTransform="-1" layerid="paituli_tike_vaestontiheys_201220180925130558623"/>
@@ -161,14 +170,11 @@
       <item>avoindata_Seutukartta_aluejako_pienalue20181024145427721</item>
       <item>avoindata_Seutukartta_aluejako_kuntarajat20181024145827224</item>
       <item>avoindata_Seutukartta_aluejako_suuralue20181024150307926</item>
+      <item>l_tiest2_polyline20181024165110474</item>
+      <item>l_tiesto_polyline20181024165132452</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="avoindata:Seutukartta_aluejako_suuralue" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="avoindata_Seutukartta_aluejako_suuralue20181024150307926" visible="0"/>
-      </filegroup>
-    </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Vallinoja" showFeatureCount="0">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="Vallinoja20180918153358731" visible="1"/>
@@ -184,9 +190,29 @@
         <legendlayerfile isInOverview="0" layerid="avoindata_Seutukartta_aluejako_pienalue20181024145427721" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asemavaraus" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="l_tiesto_polyline" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asemavaraus20180925142837266" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="l_tiesto_polyline20181024165132452" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="l_tiest2_polyline" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="l_tiest2_polyline20181024165110474" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:tiet" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_tiet20180925134255723" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="avoindata:Seutukartta_aluejako_suuralue" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="avoindata_Seutukartta_aluejako_suuralue20181024150307926" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asemavaraus" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="asemavaraus20180925142837266" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:Asemat_polygonit_2015" showFeatureCount="0">
@@ -194,14 +220,9 @@
         <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Rakennukset_alueina Rakennukset_alueina Polygon" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Rakennukset_alueina Rakennukset_alueina Polygon" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:tiet" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_tiet20180925134255723" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="paituli:syke_uoma_2015" showFeatureCount="0">
@@ -214,9 +235,9 @@
         <legendlayerfile isInOverview="0" layerid="l_jrata_polyline20181002181215015" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:Kavely10min" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="asuminen_ja_maankaytto:Kavely10min" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Kavely10min20180925133541123" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="asuminen_ja_maankaytto_Kavely10min20180925133541123" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="vaestotietoruudukko_2017" showFeatureCount="0">
@@ -224,13 +245,18 @@
         <legendlayerfile isInOverview="0" layerid="vaestotietoruudukko_201720181024132522467" visible="0"/>
       </filegroup>
     </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="vaestotietoruudukko_2017_vain_vallinoja" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" visible="0"/>
+      </filegroup>
+    </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RautatieLden12" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="RautatieLden1220180925135832553" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="LentoLden12" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="LentoLden12" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="LentoLden1220180925135647731" visible="0"/>
       </filegroup>
     </legendlayer>
@@ -244,14 +270,9 @@
         <legendlayerfile isInOverview="0" layerid="TieLden1220180925135612132" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Yleiskaava" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Yleiskaava" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Yleiskaava20180925142312853" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="vaestotietoruudukko_2017_vain_vallinoja" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Yleiskaava20180925142312853" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:SeutuRAMAVA_tila_20161230" showFeatureCount="0">
@@ -262,6 +283,12 @@
   </legend>
   <projectlayers>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>234655.950999999884516</xmin>
+        <ymin>6678216.446000000461936</ymin>
+        <xmax>401507.25499999988824129</xmax>
+        <ymax>6719401.73799999989569187</ymax>
+      </extent>
       <id>LentoLden1220180925135647731</id>
       <datasource>./paikalliset/melualueet/LentoLden12.shp</datasource>
       <keywordList>
@@ -2833,6 +2860,12 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>25456086.19229453802108765</xmin>
+        <ymin>6666573.8283788301050663</ymin>
+        <xmax>25517333.4071115255355835</xmax>
+        <ymax>6726991.73882314097136259</ymax>
+      </extent>
       <id>asuminen_ja_maankaytto_Kavely10min20180925133541123</id>
       <datasource> srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table="" sql=</datasource>
       <keywordList>
@@ -4692,6 +4725,256 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>l_tiest2_polyline20181024165110474</id>
+      <datasource>./paikalliset/HSY_Seutukartta_2014/Shapefile/l_tiest2_polyline.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>l_tiest2_polyline</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=25 +k=1 +x_0=25500000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>27314</srsid>
+          <srid>3879</srid>
+          <authid>EPSG:3879</authid>
+          <description>ETRS89 / GK25FIN</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="windows-1252">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="Tieluokka_">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Nimi">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Tieluokk00">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Mtryhm">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="38,150,130,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>Tieluokka_</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name=".SF NS Text"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="Tieluokka_" index="0" name=""/>
+        <alias field="Nimi" index="1" name=""/>
+        <alias field="Tieluokk00" index="2" name=""/>
+        <alias field="Mtryhm" index="3" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns/>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="Tieluokka_" expression=""/>
+        <default field="Nimi" expression=""/>
+        <default field="Tieluokk00" expression=""/>
+        <default field="Mtryhm" expression=""/>
+      </defaults>
+      <previewExpression></previewExpression>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>l_tiesto_polyline20181024165132452</id>
+      <datasource>./paikalliset/HSY_Seutukartta_2014/Shapefile/l_tiesto_polyline.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>l_tiesto_polyline</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=25 +k=1 +x_0=25500000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>27314</srsid>
+          <srid>3879</srid>
+          <authid>EPSG:3879</authid>
+          <description>ETRS89 / GK25FIN</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="windows-1252">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="Tieluokka_">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Nimi">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Tieluokk00">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Mtryhm">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="170,22,56,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>Tieluokka_</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name=".SF NS Text"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="Tieluokka_" index="0" name=""/>
+        <alias field="Nimi" index="1" name=""/>
+        <alias field="Tieluokk00" index="2" name=""/>
+        <alias field="Mtryhm" index="3" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns/>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="Tieluokka_" expression=""/>
+        <default field="Nimi" expression=""/>
+        <default field="Tieluokk00" expression=""/>
+        <default field="Mtryhm" expression=""/>
+      </defaults>
+      <previewExpression></previewExpression>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
         <xmin>192297.19450000001234002</xmin>
         <ymin>6639377.66040000040084124</ymin>
@@ -5165,11 +5448,11 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="asukkaita" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="7.000000000000000" upper="78.000000000000000" label=" 7.0000 - 78.0000 "/>
+          <range render="true" symbol="0" lower="1.000000000000000" upper="78.000000000000000" label="1 - 78.0000 "/>
           <range render="true" symbol="1" lower="78.000000000000000" upper="149.000000000000000" label=" 78.0000 - 149.0000 "/>
           <range render="true" symbol="2" lower="149.000000000000000" upper="220.000000000000000" label=" 149.0000 - 220.0000 "/>
           <range render="true" symbol="3" lower="220.000000000000000" upper="291.000000000000000" label=" 220.0000 - 291.0000 "/>
-          <range render="true" symbol="4" lower="291.000000000000000" upper="362.000000000000000" label=" 291.0000 - 362.0000 "/>
+          <range render="true" symbol="4" lower="291.000000000000000" upper="10000.000000000000000" label=" 291.0000 - "/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -5493,7 +5776,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;asukkaita&quot;" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="index"/>
           <column width="-1" hidden="0" type="field" name="asukkaita"/>
@@ -5552,7 +5835,7 @@ def my_form_open(dialog, layer, feature):
         <default field="ika70_79" expression=""/>
         <default field="ika_yli80" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "index", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>vaestotietoruudukko_2017_vain_vallinoja20181024133623176</id>
@@ -6071,12 +6354,18 @@ def my_form_open(dialog, layer, feature):
         <value>asuminen_ja_maankaytto_Kavely10min20180925133541123</value>
         <value>asuminen_ja_maankaytto_SeutuRAMAVA_tila_2016123020180925145651921</value>
         <value>asuminen_ja_maankaytto_tiet20180925134255723</value>
+        <value>avoindata_Seutukartta_aluejako_kuntarajat20181024145827224</value>
+        <value>avoindata_Seutukartta_aluejako_pienalue20181024145427721</value>
+        <value>avoindata_Seutukartta_aluejako_suuralue20181024150307926</value>
         <value>l_jrata_polyline20181002181215015</value>
         <value>paituli_syke_uoma_201520180925131702249</value>
         <value>vaestotietoruudukko_201720181024132522467</value>
         <value>vaestotietoruudukko_2017_vain_vallinoja20181024133623176</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
+        <value>disabled</value>
+        <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
@@ -6109,8 +6398,14 @@ def my_form_open(dialog, layer, feature):
         <value>2</value>
         <value>2</value>
         <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </LayerSnappingToleranceUnitList>
       <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
@@ -6129,6 +6424,9 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
       <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
+        <value>0.000000</value>
+        <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
