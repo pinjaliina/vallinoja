@@ -1,0 +1,95 @@
+{
+  "CTRL": {
+    "comboBox_Controls": "OrbitControls.js"
+  }, 
+  "DEM": {
+    "checkBox_Clip": false, 
+    "checkBox_Frame": false, 
+    "checkBox_Shading": true, 
+    "checkBox_Sides": true, 
+    "checkBox_Surroundings": false, 
+    "checkBox_TransparentBackground": false, 
+    "comboBox_ClipLayer": "avoindata_Seutukartta_aluejako_kuntarajat20181024145827224", 
+    "comboBox_DEMLayer": 0, 
+    "comboBox_TextureSize": 100, 
+    "horizontalSlider_DEMSize": 2, 
+    "lineEdit_Color": "", 
+    "lineEdit_ImageFile": "", 
+    "lineEdit_centerX": "", 
+    "lineEdit_centerY": "", 
+    "lineEdit_rectHeight": "", 
+    "lineEdit_rectWidth": "", 
+    "radioButton_MapCanvas": true, 
+    "radioButton_Simple": true, 
+    "spinBox_Height": 4, 
+    "spinBox_Roughening": 4, 
+    "spinBox_Size": 5, 
+    "spinBox_demtransp": 0, 
+    "visible": false
+  }, 
+  "OutputFilename": "", 
+  "POLYGON": {
+    "vaestotietoruudukko_201720181024132522467": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 1, 
+      "heightWidget": {
+        "comboData": 201, 
+        "comboText": "+\"asukkaita\"", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 3, 
+        "comboText": "Height from overlay", 
+        "editText": "14.5066456296", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "0 layer selected", 
+        "type": 8
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 7
+      }, 
+      "styleWidget3": {
+        "checkBox": false, 
+        "type": 9
+      }, 
+      "styleWidget4": {
+        "comboData": 1, 
+        "comboText": "Feature style (border)", 
+        "editText": "", 
+        "type": 7
+      }, 
+      "styleWidget5": {
+        "comboData": 1, 
+        "comboText": "Absolute value", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "visible": true
+    }
+  }, 
+  "PluginVersion": "1.4.2", 
+  "Template": "3DViewer(dat-gui).html", 
+  "WORLD": {
+    "lineEdit_BaseSize": "100", 
+    "lineEdit_Color": "", 
+    "lineEdit_zFactor": "10", 
+    "lineEdit_zShift": "0"
+  }
+}

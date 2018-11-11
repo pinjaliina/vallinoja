@@ -52,10 +52,7 @@
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="pellot_2016_vallinojan_ymparisto20181107180929356" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_pellot_2016/pellot_2016_vallinojan_ymparisto.shp" name="pellot_2016_vallinojan_ymparisto">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Joined_layer20181111214950309" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/rakennukset_vallinoja/tontit_rakennuksineen.shp" name="tontit rakennuksineen">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Joined_layer20181111214950309" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/rakennukset_vallinoja/tontit_rakennuksineen.shp" name="tontit rakennuksineen">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="WFS" checked="Qt::Unchecked" id="asuminen_ja_maankaytto_Kavely10min20180925133541123" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Kavely10min' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Kavely10min">
@@ -65,6 +62,9 @@
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vaestotietoruudukko_201720181024132522467" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017.shp" name="vaestotietoruudukko_2017">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="RautatieLden1220180925135832553" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/RautatieLden12.shp" name="RautatieLden12">
@@ -93,10 +93,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>25503239.93748737499117851</xmin>
-      <ymin>6693254.40800572093576193</ymin>
-      <xmax>25505315.68347005918622017</xmax>
-      <ymax>6695817.81762168277055025</ymax>
+      <xmin>25503028.31112760305404663</xmin>
+      <ymin>6693295.3679463230073452</ymin>
+      <xmax>25505104.05711028724908829</xmax>
+      <ymax>6695858.77756228484213352</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -114,6 +114,7 @@
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <layer_coordinate_transform_info>
+      <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="avoindata_Seutukartta_aluejako_pienalue20181111224346424"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="avoindata_Seutukartta_liikenne_paatiet20181024164950622"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="memory_20181107163615314"/>
       <layer_coordinate_transform destAuthId="EPSG:3879" srcAuthId="EPSG:3879" srcDatumTransform="-1" destDatumTransform="-1" layerid="Joined_layer20181111214637090"/>
@@ -312,14 +313,9 @@
         <legendlayerfile isInOverview="0" layerid="pellot_2016_vallinojan_ymparisto20181107180929356" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="vaestotietoruudukko_2017_vain_vallinoja" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="tontit rakennuksineen" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tontit rakennuksineen" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Joined_layer20181111214950309" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Joined_layer20181111214950309" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="asuminen_ja_maankaytto:Kavely10min" showFeatureCount="0">
@@ -335,6 +331,11 @@
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="vaestotietoruudukko_2017" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="vaestotietoruudukko_201720181024132522467" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="vaestotietoruudukko_2017_vain_vallinoja" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RautatieLden12" showFeatureCount="0">
@@ -373,8 +374,8 @@
       </filegroup>
     </legendlayer>
   </legend>
-  <Composer title="Väestöruudukko" visible="0">
-    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{e9720582-aa27-41ae-b701-220f064be7c8}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <Composer title="Tonttitehokkuus" visible="0">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{241eda19-0535-408f-9849-76a4c1befe5a}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
           <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -390,18 +391,36 @@
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerScaleBar lineCapStyle="square" style="Line Ticks Up" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="12.5" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="250" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="3" boxContentSpace="1" mapId="0" unitLabel="m">
-        <scaleBarFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Selite" htmlState="0" halign="1">
+        <LabelFont description="Helvetica,14,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="27.781" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="114.248" y="27.781" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="43.6319" outlineWidth="0.3" excludeFromExports="0" uuid="{ec89727c-0a0d-447f-9436-69e52a3536a3}" height="6.40117" itemRotation="0" frame="false" pagex="114.248">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerScaleBar lineCapStyle="square" style="Line Ticks Up" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="12.5475" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="250" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="3" boxContentSpace="1" mapId="0" unitLabel="m">
+        <scaleBarFont description="Helvetica,12,-1,5,75,0,0,0,0,0" style="Bold"/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="26.8783" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="19.1519" y="26.8783" visibility="1" zValue="7" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="63.1" outlineWidth="0.5" excludeFromExports="0" uuid="{87333cfd-5e23-4a93-8f25-e343c85e8065}" height="13.2328" itemRotation="0" frame="true" pagex="19.1519">
+        <ComposerItem pagey="173.723" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="105.041" y="173.723" visibility="1" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="63.526" outlineWidth="2" excludeFromExports="0" uuid="{e0974fa6-ddb5-415a-8fe6-bc7ee5309a80}" height="15.247" itemRotation="0" frame="true" pagex="105.041">
           <FrameColor alpha="255" red="255" blue="255" green="255"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerScaleBar>
+      <ComposerLabel valign="128" marginX="1" marginY="1" labelText="N" htmlState="0" halign="4">
+        <LabelFont description="Helvetica,18,-1,5,75,0,0,0,0,0" style="Bold"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="161.59" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="15.9118" y="161.59" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="11.75" outlineWidth="0.3" excludeFromExports="0" uuid="{8bc4247a-06f6-4638-83d6-b11d3f134538}" height="9.32821" itemRotation="0" frame="false" pagex="15.9118">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
       <ComposerArrow arrowHeadFillColor="0,0,0,255" arrowHeadOutlineColor="0,0,0,255" startMarkerFile="" boundsBehaviourVersion="24" arrowHeadWidth="4" endMarkerFile="" outlineWidth="1" markerMode="0">
         <lineStyle>
           <symbol alpha="1" clip_to_extent="1" type="line" name="">
@@ -424,36 +443,18 @@
             </layer>
           </symbol>
         </lineStyle>
-        <StartPoint x="163.695" y="191.078"/>
-        <StopPoint x="163.394" y="174.227"/>
-        <ComposerItem pagey="171.52" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="160.687" y="171.52" visibility="1" zValue="6" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="5.71512" outlineWidth="1" excludeFromExports="0" uuid="{dea49c6f-c1f3-41f1-bdc2-c54b00a3faba}" height="22.2652" itemRotation="0" frame="true" pagex="160.687">
-          <FrameColor alpha="255" red="255" blue="255" green="255"/>
+        <StartPoint x="21.6655" y="186.263"/>
+        <StopPoint x="21.6655" y="173.625"/>
+        <ComposerItem pagey="170.918" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="18.9584" y="170.918" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="5.41421" outlineWidth="0.3" excludeFromExports="0" uuid="{c568b4fb-f70e-4ce8-b209-2e1683b40bae}" height="18.0522" itemRotation="0" frame="false" pagex="18.9584">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerArrow>
-      <ComposerLabel valign="128" marginX="1" marginY="1" labelText="N" htmlState="0" halign="4">
-        <LabelFont description="Helvetica,16,-1,5,75,0,0,0,0,0" style="Bold"/>
-        <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="164.798" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="160.187" y="164.798" visibility="1" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="6.71512" outlineWidth="0.3" excludeFromExports="0" uuid="{4b2a5d54-efdd-48c3-9d32-930fcad2f250}" height="7.22184" itemRotation="0" frame="false" pagex="160.187">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerLabel>
-      <ComposerLabel valign="128" marginX="6" marginY="3" labelText="Väestö 2017" htmlState="0" halign="1">
-        <LabelFont description="Helvetica,18,-1,5,75,0,0,0,0,0" style="Bold"/>
-        <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="12.3009" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="14" y="12.3009" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="68.3066" outlineWidth="0.3" excludeFromExports="0" uuid="{9e711770-b653-4d8e-98f3-a5c9064e54e8}" height="15.6473" itemRotation="0" frame="false" pagex="14">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerLabel>
-      <ComposerLegend symbolWidth="7" title="Selite" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#000000" legendFilterByAtlas="0" columnCount="1" wmsLegendHeight="25" columnSpace="2" symbolHeight="4" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="3" rasterBorder="1">
+      <ComposerLegend symbolWidth="7" title="Tonttitehokkuus|" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="|" fontColor="#000000" legendFilterByAtlas="0" columnCount="1" wmsLegendHeight="25" columnSpace="2" symbolHeight="4" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="2" rasterBorder="1">
         <styles>
           <style marginBottom="2" name="title">
-            <styleFont description="Helvetica,14,-1,5,75,0,0,0,0,0" style="Bold"/>
+            <styleFont description="Helvetica,18,-1,5,75,0,0,0,0,0" style="Bold"/>
           </style>
           <style marginTop="2" name="group">
             <styleFont description=".SF NS Text,14,-1,5,50,0,0,0,0,0" style=""/>
@@ -468,7 +469,7 @@
             <styleFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
           </style>
         </styles>
-        <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+        <layer-tree-group expanded="1" checked="Qt::Checked" name="">
           <customproperties/>
           <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja20181111205514839" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/Vallinoja.shp" name="Vallinoja">
             <customproperties>
@@ -506,7 +507,7 @@
               <property key="legend/title-label" value="Tiealue Vantaalla (HSY)"/>
             </customproperties>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="DR_LINKKI_K20181107175013028" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/Digiroad_K/UUSIMAA_2/DR_LINKKI_K.shp" name="Tiet Digiroad / Uusimaa 2">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="DR_LINKKI_K20181107175013028" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/Digiroad_K/UUSIMAA_2/DR_LINKKI_K.shp" name="Tiet Digiroad / Uusimaa 2">
             <customproperties>
               <property key="legend/title-label" value="Tieviiva (Digiroad)"/>
             </customproperties>
@@ -516,62 +517,76 @@
               <property key="legend/title-label" value="Rautatie"/>
             </customproperties>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Joined_layer20181111214950309" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/rakennukset_vallinoja/tontit_rakennuksineen.shp" name="tontit rakennuksineen">
             <customproperties>
-              <property key="legend/node-order" value="empty"/>
-              <property key="legend/title-label" value="Väestö 2017 (HSY; 250 × 250 m):"/>
+              <property key="legend/label-0" value="alle 0,15"/>
+              <property key="legend/label-1" value="0,15–0,41"/>
+              <property key="legend/label-2" value="0,41–0,90"/>
+              <property key="legend/label-3" value="yli 0,90"/>
+              <property key="legend/title-label" value="Tonttitehokkuus (et):"/>
             </customproperties>
           </layer-tree-layer>
         </layer-tree-group>
-        <ComposerItem pagey="12.9027" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="98.4273" y="12.9027" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="68.8453" outlineWidth="0.3" excludeFromExports="0" uuid="{8ec5b642-f245-447c-b07a-389dbd6e8964}" height="74.0312" itemRotation="0" frame="false" pagex="98.4273">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerLegend>
-      <ComposerLegend symbolWidth="7" title="" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#000000" legendFilterByAtlas="0" columnCount="1" wmsLegendHeight="25" columnSpace="2" symbolHeight="4" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="2" rasterBorder="1">
-        <styles>
-          <style marginBottom="2" name="title">
-            <styleFont description=".SF NS Text,16,-1,5,50,0,0,0,0,0" style=""/>
-          </style>
-          <style marginTop="2" name="group">
-            <styleFont description=".SF NS Text,14,-1,5,50,0,0,0,0,0" style=""/>
-          </style>
-          <style marginTop="2" name="subgroup">
-            <styleFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
-          </style>
-          <style marginTop="2" name="symbol">
-            <styleFont description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
-          </style>
-          <style marginTop="2" marginLeft="2" name="symbolLabel">
-            <styleFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
-          </style>
-        </styles>
-        <layer-tree-group expanded="1" checked="Qt::Checked" name="">
-          <customproperties/>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="vaestotietoruudukko_2017_vain_vallinoja20181024133623176" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">
-            <customproperties>
-              <property key="legend/label-0" value="7–78"/>
-              <property key="legend/label-1" value="79–149"/>
-              <property key="legend/label-2" value="150–220"/>
-              <property key="legend/label-3" value="221–291"/>
-              <property key="legend/label-4" value="yli 291"/>
-              <property key="legend/title-label" value=" "/>
-            </customproperties>
-          </layer-tree-layer>
-        </layer-tree-group>
-        <ComposerItem pagey="76.5286" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="122.897" y="76.5286" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="46.7049" outlineWidth="0.3" excludeFromExports="0" uuid="{64e82be5-2b20-4cf1-b2c6-66e5561c1781}" height="40.7328" itemRotation="0" frame="false" pagex="122.897">
+        <ComposerItem pagey="17.7601" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="113.065" y="17.7601" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="59.4391" outlineWidth="0.3" excludeFromExports="0" uuid="{3edc6ee9-dd5a-4aa5-b126-3b738b09578a}" height="105.149" itemRotation="0" frame="false" pagex="113.065">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLegend>
       <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="6693065.55059415008872747" xmin="25503118.99337107688188553" ymax="6696705.55059786234050989" xmax="25506218.99337423592805862"/>
+        <Extent ymin="6692826.89922737795859575" xmin="25503258.92574282363057137" ymax="6696303.28450995963066816" xmax="25506378.92574600502848625"/>
         <LayerSet/>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{725a5697-78f3-4a14-aa1f-f4e341cf1045}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="13" page="1" id="" lastValidViewScaleFactor="3.32325" positionMode="0" positionLock="false" x="14" y="13" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="155" outlineWidth="0.3" excludeFromExports="0" uuid="{e9720582-aa27-41ae-b701-220f064be7c8}" height="182" itemRotation="0" frame="false" pagex="14">
+        <ComposerItem pagey="17.7601" page="1" id="" lastValidViewScaleFactor="3.32325" positionMode="0" positionLock="false" x="15.9118" y="17.7601" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="156.593" outlineWidth="0.3" excludeFromExports="0" uuid="{241eda19-0535-408f-9849-76a4c1befe5a}" height="174.48" itemRotation="0" frame="false" pagex="15.9118">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -5700,7 +5715,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="194,164,145,0"/>
+              <prop k="color" v="163,210,239,0"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -8912,14 +8927,14 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/blendMode" value="0"/>
         <property key="labeling/bufferBlendMode" value="0"/>
         <property key="labeling/bufferColorA" value="255"/>
-        <property key="labeling/bufferColorB" value="89"/>
-        <property key="labeling/bufferColorG" value="244"/>
-        <property key="labeling/bufferColorR" value="241"/>
-        <property key="labeling/bufferDraw" value="true"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
         <property key="labeling/bufferJoinStyle" value="128"/>
         <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="25"/>
-        <property key="labeling/bufferSizeInMapUnits" value="true"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
         <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/bufferTransp" value="0"/>
         <property key="labeling/centroidInside" value="false"/>
@@ -8929,9 +8944,9 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/dist" value="0"/>
         <property key="labeling/distInMapUnits" value="false"/>
         <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/drawLabels" value="true"/>
-        <property key="labeling/enabled" value="true"/>
-        <property key="labeling/fieldName" value="asukkaita"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value=".SF NS Text"/>
@@ -8940,15 +8955,15 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fontLimitPixelSize" value="false"/>
         <property key="labeling/fontMaxPixelSize" value="10000"/>
         <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="75"/>
-        <property key="labeling/fontSizeInMapUnits" value="true"/>
+        <property key="labeling/fontSize" value="13"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
         <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/fontStrikeout" value="false"/>
         <property key="labeling/fontUnderline" value="false"/>
         <property key="labeling/fontWeight" value="50"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
         <property key="labeling/labelOffsetInMapUnits" value="true"/>
         <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/labelPerPart" value="false"/>
@@ -9234,6 +9249,7 @@ def my_form_open(dialog, layer, feature):
       <LayerSnappingList type="QStringList">
         <value>800m_asemabufferit20181107172648458</value>
         <value>DR_LINKKI_K20181107175013028</value>
+        <value>Joined_layer20181111214950309</value>
         <value>LentoLden1220180925135647731</value>
         <value>Rakennukset_alueina_Rakennukset_alueina_Polygon20180925130737053</value>
         <value>RautatieLden1220180925135832553</value>
@@ -9255,7 +9271,6 @@ def my_form_open(dialog, layer, feature):
         <value>uomat_201520181107165615397</value>
         <value>vaestotietoruudukko_201720181024132522467</value>
         <value>vaestotietoruudukko_2017_vain_vallinoja20181024133623176</value>
-        <value>Joined_layer20181111214950309</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
         <value>disabled</value>
