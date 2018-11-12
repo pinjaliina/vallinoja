@@ -93,10 +93,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>25502467.16111109778285027</xmin>
-      <ymin>6690861.92921293992549181</ymin>
-      <xmax>25507361.66155806556344032</xmax>
-      <ymax>6696906.31499798689037561</ymax>
+      <xmin>25501654.26768328249454498</xmin>
+      <ymin>6693336.82752039935439825</ymin>
+      <xmax>25506548.76813025027513504</xmax>
+      <ymax>6699381.21330544631928205</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -654,33 +654,33 @@
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Rautatiemelu" htmlState="0" halign="1">
         <LabelFont description="Helvetica,18,-1,5,50,0,0,0,0,0" style="Light"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="15.9482" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="121.267" y="15.9482" visibility="1" zValue="8" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.4374" outlineWidth="0.3" excludeFromExports="0" uuid="{f9f44c6e-ac05-4419-be9d-752413fc6ba3}" height="8.42548" itemRotation="0" frame="false" pagex="121.267">
+        <ComposerItem pagey="15.9482" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="121.267" y="15.9482" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.4374" outlineWidth="0.3" excludeFromExports="0" uuid="{f9f44c6e-ac05-4419-be9d-752413fc6ba3}" height="8.42548" itemRotation="0" frame="false" pagex="121.267">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
-      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Lentomelu ja&#xa;rautatiemelu" htmlState="0" halign="1">
-        <LabelFont description="Helvetica,24,-1,5,75,0,0,0,0,0" style="Bold"/>
-        <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="12.9391" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="229.594" y="12.9391" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="58.9783" outlineWidth="0.3" excludeFromExports="0" uuid="{6a58f6ba-f819-4da4-bc3e-f3c4e158116e}" height="21.0637" itemRotation="0" frame="false" pagex="229.594">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerLabel>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="12.5245" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="250" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="3" boxContentSpace="1" mapId="1" unitLabel="m">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="12.5244" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="250" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="3" boxContentSpace="1" mapId="1" unitLabel="m">
         <scaleBarFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="164.548" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="227.789" y="164.548" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="63.1978" outlineWidth="0.3" excludeFromExports="0" uuid="{959d666d-9189-4094-8b0b-e15f8d95e5c2}" height="20.6018" itemRotation="0" frame="false" pagex="227.789">
+        <ComposerItem pagey="164.548" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="227.789" y="164.548" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="63.1976" outlineWidth="0.3" excludeFromExports="0" uuid="{959d666d-9189-4094-8b0b-e15f8d95e5c2}" height="20.6018" itemRotation="0" frame="false" pagex="227.789">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerScaleBar>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Lentomelu ja&#xa;rautatiemelu" htmlState="0" halign="1">
+        <LabelFont description="Helvetica,24,-1,5,75,0,0,0,0,0" style=""/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="12.9391" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="229.594" y="12.9391" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="58.9783" outlineWidth="0.3" excludeFromExports="0" uuid="{6a58f6ba-f819-4da4-bc3e-f3c4e158116e}" height="21.0637" itemRotation="0" frame="false" pagex="229.594">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Lentomelu" htmlState="0" halign="1">
         <LabelFont description="Helvetica,18,-1,5,50,0,0,0,0,0" style="Light"/>
         <FontColor red="0" blue="0" green="0"/>
@@ -770,10 +770,69 @@
           <customproperties/>
         </ComposerItem>
       </ComposerLegend>
-      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="1" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="6693205.39147280156612396" xmin="25503184.98930774256587029" ymax="6696638.67634656745940447" xmax="25505284.9893098808825016"/>
-        <LayerSet/>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="1" previewMode="Render" drawCanvasItems="true">
+        <Extent ymin="6693205.39147280156612396" xmin="25503184.98930774256587029" ymax="6696638.6883728327229619" xmax="25505284.9893098808825016"/>
+        <LayerSet>
+          <Layer provider="WFS" source=" srsname='EPSG:3879' typename='avoindata:Seutukartta_aluejako_kuntarajat' url='https://kartta.hel.fi/ws/geoserver/avoindata/wfs' table=&quot;&quot; sql=" name="avoindata:Seutukartta_aluejako_kuntarajat">avoindata_Seutukartta_aluejako_kuntarajat20181024145827224</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="asemavaraus">asemavaraus20180925142837266</Layer>
+          <Layer provider="WFS" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Asemat_polygonit_2015' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Asemat_polygonit_2015">asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/Vallinoja.shp" name="Vallinoja">Vallinoja20181111205514839</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/rakennukset_vallinoja/rakennukset suunnittelualueella.shp" name="rakennukset suunnittelualueella">rakennukset_suunnittelualueella20181111200659457</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/syke_uomat_vallinoja/uomat_2015.shp" name="uomat_2015">uomat_201520181107165615397</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">l_jrata_polyline20181002181215015</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/RautatieLden12.shp" name="RautatieLden12">RautatieLden1220180925135832553</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/asemabufferit/800m_asemabufferit.shp" name="800m_asemabufferit">800m_asemabufferit20181107172648458</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">vaestotietoruudukko_2017_vain_vallinoja20181024133623176</Layer>
+        </LayerSet>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{40d36847-9743-49ba-a284-d9690de90f53}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
         <ComposerItem pagey="13" page="1" id="" lastValidViewScaleFactor="3.32325" positionMode="0" positionLock="false" x="118.705" y="13" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="105.205" outlineWidth="0.3" excludeFromExports="0" uuid="{abeb6119-a360-4e62-9c0c-b239bea96a17}" height="172" itemRotation="0" frame="true" pagex="118.705">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
@@ -781,10 +840,69 @@
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
-      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="6693184.90962653513997793" xmin="25503208.58062524721026421" ymax="6696601.73538659606128931" xmax="25505288.58062737062573433"/>
-        <LayerSet/>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="0" previewMode="Render" drawCanvasItems="true">
+        <Extent ymin="6693184.90962653513997793" xmin="25503208.58062524721026421" ymax="6696601.7474123639985919" xmax="25505288.58062737062573433"/>
+        <LayerSet>
+          <Layer provider="WFS" source=" srsname='EPSG:3879' typename='avoindata:Seutukartta_aluejako_kuntarajat' url='https://kartta.hel.fi/ws/geoserver/avoindata/wfs' table=&quot;&quot; sql=" name="avoindata:Seutukartta_aluejako_kuntarajat">avoindata_Seutukartta_aluejako_kuntarajat20181024145827224</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="asemavaraus">asemavaraus20180925142837266</Layer>
+          <Layer provider="WFS" source=" srsname='EPSG:3879' typename='asuminen_ja_maankaytto:Asemat_polygonit_2015' url='https://kartta.hsy.fi/geoserver/wfs' version='auto' table=&quot;&quot; sql=" name="asuminen_ja_maankaytto:Asemat_polygonit_2015">asuminen_ja_maankaytto_Asemat_polygonit_201520180925133055371</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/Vallinoja.shp" name="Vallinoja">Vallinoja20181111205514839</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/rakennukset_vallinoja/rakennukset suunnittelualueella.shp" name="rakennukset suunnittelualueella">rakennukset_suunnittelualueella20181111200659457</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/syke_uomat_vallinoja/uomat_2015.shp" name="uomat_2015">uomat_201520181107165615397</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/l_jrata_polyline.shp" name="l_jrata_polyline">l_jrata_polyline20181002181215015</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/melualueet/LentoLden12.shp" name="LentoLden12">LentoLden1220180925135647731</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/asemabufferit/800m_asemabufferit.shp" name="800m_asemabufferit">800m_asemabufferit20181107172648458</Layer>
+          <Layer provider="ogr" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_vaestotietoruudukko_2017/vaestotietoruudukko_2017_vain_vallinoja.shp" name="vaestotietoruudukko_2017_vain_vallinoja">vaestotietoruudukko_2017_vain_vallinoja20181024133623176</Layer>
+        </LayerSet>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{df3413ec-31f9-4a4c-ab3c-46046710389b}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
         <ComposerItem pagey="13" page="1" id="" lastValidViewScaleFactor="3.32325" positionMode="0" positionLock="false" x="13" y="13" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="104.705" outlineWidth="0.3" excludeFromExports="0" uuid="{5ddffa8f-f8f1-46b5-8814-88da1e55d308}" height="172" itemRotation="0" frame="true" pagex="13">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
