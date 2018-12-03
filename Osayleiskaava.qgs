@@ -555,7 +555,7 @@
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Kaavakartta" visible="1">
+  <Composer title="Kaavakartta" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{5f949ca8-a2a2-420a-9137-5584ca099829}" alignmentSnap="1" printResolution="300" paperWidth="210" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="1" generateWorldFile="0" paperHeight="297" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -1641,7 +1641,7 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="0" type="field" name="id_2"/>
           <column width="-1" hidden="0" type="field" name="Pinta_ala"/>
           <column width="-1" hidden="0" type="field" name="Lyhenne"/>
-          <column width="-1" hidden="0" type="field" name="Kuvaus2"/>
+          <column width="701" hidden="0" type="field" name="Kuvaus2"/>
         </columns>
       </attributetableconfig>
       <editform>../../juliuskrotzl/Työpöytä/Helsingin yliopisto/Yleiskaavoituskurssi</editform>
@@ -2546,7 +2546,7 @@ def my_form_open(dialog, layer, feature):
         <default field="id" expression=""/>
         <default field="Pinta_ala" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "id", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>a_kunta_region20181203131556663</id>
