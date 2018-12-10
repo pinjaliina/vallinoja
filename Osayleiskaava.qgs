@@ -1,35 +1,35 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.18.23">
+<qgis projectname="" version="2.18.25">
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_kunta_region20181203131556663" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_kunta_region.shp" name="Kunnan raja">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_kunta_region20181203131556663" source="/Users/Shared/vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_kunta_region.shp" name="Kunnan raja">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja_alue20181117174450327" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Vallinoja_alue.shp" name="Osayleiskaavan aluerajaus">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja_alue20181117174450327" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Vallinoja_alue.shp" name="Osayleiskaavan aluerajaus">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20181106184515836" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="Joukkoliikenteen terminaali">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20181106184515836" source="/Users/Shared/vallinoja/asemavaraus.shp" name="Joukkoliikenteen terminaali">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_viivat20181117173940329" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_viivat.shp" name="Osayleiskaavan reitit">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_viivat20181117173940329" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_viivat.shp" name="Osayleiskaavan reitit">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Lentomelualue_yli55db20181117174331768" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Lentomelualue_yli55db.shp" name="Lentomelualue > 55 dB(A)">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Lentomelualue_yli55db20181117174331768" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Lentomelualue_yli55db.shp" name="Lentomelualue > 55 dB(A)">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_alueet20181117174101857" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_alueet.shp" name="Osayleiskaavan aluejako">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_alueet20181117174101857" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_alueet.shp" name="Osayleiskaavan aluejako">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_va_kos_region20181203131201615" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_va_kos_region.shp" name="Kaupunginosan raja">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_va_kos_region20181203131201615" source="/Users/Shared/vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_va_kos_region.shp" name="Kaupunginosan raja">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="Ortoilmakuva_201720181203142140158" source="contextualWMSLegend=0&amp;crs=EPSG:3879&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=taustakartta:ortokuva_2017&amp;styles=&amp;url=http://gis.vantaa.fi/geoserver/wms?request%3DGetCapabilities" name="Ortoilmakuva 2017">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tiet_ita_vantaa20181203140346725" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/hsy_tiet/tiet_ita-vantaa.shp" name="tiet_ita-vantaa">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tiet_ita_vantaa20181203140346725" source="/Users/Shared/vallinoja/repo_shp/hsy_tiet/tiet_ita-vantaa.shp" name="tiet_ita-vantaa">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="OpenStreetMap20181009180343892" source="&lt;GDAL_WMS>&#xa;  &lt;Service name=&quot;TMS&quot;>&#xa;    &lt;ServerUrl>http://tile.openstreetmap.org/${z}/${x}/${y}.png&lt;/ServerUrl>&#xa;  &lt;/Service>&#xa;  &lt;DataWindow>&#xa;    &lt;UpperLeftX>-20037508.34&lt;/UpperLeftX>&#xa;    &lt;UpperLeftY>20037508.34&lt;/UpperLeftY>&#xa;    &lt;LowerRightX>20037508.34&lt;/LowerRightX>&#xa;    &lt;LowerRightY>-20037508.34&lt;/LowerRightY>&#xa;    &lt;TileLevel>19&lt;/TileLevel>&#xa;    &lt;TileCountX>1&lt;/TileCountX>&#xa;    &lt;TileCountY>1&lt;/TileCountY>&#xa;    &lt;YOrigin>top&lt;/YOrigin>&#xa;  &lt;/DataWindow>&#xa;  &lt;Projection>EPSG:3857&lt;/Projection>&#xa;  &lt;BlockSizeX>256&lt;/BlockSizeX>&#xa;  &lt;BlockSizeY>256&lt;/BlockSizeY>&#xa;  &lt;BandsCount>3&lt;/BandsCount>&#xa;  &lt;Cache />&#xa;&lt;/GDAL_WMS>&#xa;" name="OpenStreetMap">
@@ -201,29 +201,29 @@
         </styles>
         <layer-tree-group expanded="1" checked="Qt::Checked" name="">
           <customproperties/>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_kunta_region20181203131556663" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_kunta_region.shp" name="Kunnan raja">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_kunta_region20181203131556663" source="/Users/Shared/vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_kunta_region.shp" name="Kunnan raja">
             <customproperties/>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja_alue20181117174450327" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Vallinoja_alue.shp" name="Osayleiskaavan aluerajaus">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Vallinoja_alue20181117174450327" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Vallinoja_alue.shp" name="Osayleiskaavan aluerajaus">
             <customproperties/>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20181106184515836" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="Joukkoliikenteen terminaali">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20181106184515836" source="/Users/Shared/vallinoja/asemavaraus.shp" name="Joukkoliikenteen terminaali">
             <customproperties/>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_viivat20181117173940329" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_viivat.shp" name="Osayleiskaavan reitit">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_viivat20181117173940329" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_viivat.shp" name="Osayleiskaavan reitit">
             <customproperties>
               <property key="legend/node-order" value="1,2,3,4"/>
             </customproperties>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Lentomelualue_yli55db20181117174331768" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Lentomelualue_yli55db.shp" name="Lentomelualue > 55 dB(A)">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Lentomelualue_yli55db20181117174331768" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Lentomelualue_yli55db.shp" name="Lentomelualue > 55 dB(A)">
             <customproperties/>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_alueet20181117174101857" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_alueet.shp" name="Osayleiskaavan aluejako">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Osayleiskaava_alueet20181117174101857" source="/Users/Shared/vallinoja/repo_shp/Osayleiskaava/Osayleiskaava_alueet.shp" name="Osayleiskaavan aluejako">
             <customproperties>
               <property key="legend/node-order" value="0,1,2,3,4,5,6,7,8,10"/>
             </customproperties>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_va_kos_region20181203131201615" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_va_kos_region.shp" name="Kaupunginosan raja">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="a_va_kos_region20181203131201615" source="/Users/Shared/vallinoja/paikalliset/HSY_Seutukartta_2014/Shapefile/a_va_kos_region.shp" name="Kaupunginosan raja">
             <customproperties/>
           </layer-tree-layer>
         </layer-tree-group>
@@ -308,7 +308,7 @@
           <layer-tree-layer expanded="1" checked="Qt::Checked" id="Vallinoja20181009180803107" name="Vallinoja">
             <customproperties/>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20181106184515836" source="/Users/Shared/pCloud/HY/Maantiede/Yleiskaavoituskurssi/Vallinoja/asemavaraus.shp" name="Joukkoliikenteen terminaali">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="asemavaraus20181106184515836" source="/Users/Shared/vallinoja/asemavaraus.shp" name="Joukkoliikenteen terminaali">
             <customproperties/>
           </layer-tree-layer>
           <layer-tree-layer expanded="1" checked="Qt::Checked" id="viivat20181107191739895" name="viivat">
@@ -509,7 +509,7 @@
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Kaavakartta" visible="1">
+  <Composer title="Kaavakartta" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{5f949ca8-a2a2-420a-9137-5584ca099829}" alignmentSnap="1" printResolution="300" paperWidth="210" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="1" generateWorldFile="0" paperHeight="297" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -527,7 +527,7 @@
         </layer>
       </symbol>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="9.12.2018" htmlState="0" halign="1">
-        <LabelFont description="Helvetica,12,-1,5,50,1,0,0,0,0" style="Light Oblique"/>
+        <LabelFont description="Helvetica,12,-1,5,50,1,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
         <ComposerItem pagey="267.915" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="5.74342" y="267.915" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="52.0497" outlineWidth="0.3" excludeFromExports="0" uuid="{82c218e3-9a05-4844-aaad-8dc4e25d06b1}" height="5.49844" itemRotation="0" frame="false" pagex="5.74342">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
@@ -536,7 +536,7 @@
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="32" marginX="5" marginY="5" labelText="Itäisen Vallinojan osayleiskaava (luonnos)" htmlState="0" halign="1">
-        <LabelFont description="Helvetica,20,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <LabelFont description="Helvetica,20,-1,5,50,0,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
         <ComposerItem pagey="240.231" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="-8.32667e-16" y="240.231" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="66.0493" outlineWidth="0.3" excludeFromExports="0" uuid="{4ac8d2c1-7020-42d3-bb0d-ef08eb235a28}" height="37.5372" itemRotation="0" frame="true" pagex="-8.32667e-16">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
