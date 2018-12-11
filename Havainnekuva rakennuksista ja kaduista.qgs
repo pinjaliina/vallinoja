@@ -52,10 +52,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>25504199.25941552594304085</xmin>
-      <ymin>6694059.55437749344855547</ymin>
-      <xmax>25505095.08939089253544807</xmax>
-      <ymax>6695384.23493440356105566</ymax>
+      <xmin>25503364.0588277094066143</xmin>
+      <ymin>6693297.85797281377017498</ymin>
+      <xmax>25505095.86814199015498161</xmax>
+      <ymax>6695858.7168299313634634</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -731,7 +731,7 @@
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="179.041" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="21.3646" y="179.041" visibility="1" zValue="7" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="74.7282" outlineWidth="0.3" excludeFromExports="0" uuid="{6b2edaf2-fa48-4d11-8b90-122f24afa03e}" height="11.2328" itemRotation="0" frame="false" pagex="21.3646">
+        <ComposerItem pagey="179.041" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="21.3646" y="179.041" visibility="1" zValue="6" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="74.7282" outlineWidth="0.3" excludeFromExports="0" uuid="{6b2edaf2-fa48-4d11-8b90-122f24afa03e}" height="11.2328" itemRotation="0" frame="false" pagex="21.3646">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="205" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -740,7 +740,7 @@
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Havainnekuva suunnittelualueen uusien rakennusten mahdollisesta sijoittumisesta." htmlState="0" halign="1">
         <LabelFont description="Helvetica,18,-1,5,50,0,0,0,0,0" style="Light"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="81.3468" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="208.23" y="81.3468" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="64.0938" outlineWidth="0.3" excludeFromExports="0" uuid="{da8c9537-839e-4501-9610-6fb81565101a}" height="34.6046" itemRotation="0" frame="false" pagex="208.23">
+        <ComposerItem pagey="81.3468" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="208.23" y="81.3468" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="64.0938" outlineWidth="0.3" excludeFromExports="0" uuid="{da8c9537-839e-4501-9610-6fb81565101a}" height="34.6046" itemRotation="0" frame="false" pagex="208.23">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -809,16 +809,16 @@
             </customproperties>
           </layer-tree-layer>
         </layer-tree-group>
-        <ComposerItem pagey="117.757" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="208.23" y="117.757" visibility="1" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="63.8672" outlineWidth="0.3" excludeFromExports="0" uuid="{8923e932-57ae-47ea-a9b1-300269b6f9af}" height="76.2795" itemRotation="0" frame="false" pagex="208.23">
+        <ComposerItem pagey="117.757" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="208.23" y="117.757" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="63.8672" outlineWidth="0.3" excludeFromExports="0" uuid="{8923e932-57ae-47ea-a9b1-300269b6f9af}" height="76.2795" itemRotation="0" frame="false" pagex="208.23">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLegend>
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="N" htmlState="0" halign="4">
-        <LabelFont description="Helvetica,22,-1,5,75,0,0,0,0,0" style="Bold"/>
+        <LabelFont description="Helvetica,22,-1,5,75,0,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="21.5151" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="186.113" y="21.5151" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="11.1337" outlineWidth="0.3" excludeFromExports="0" uuid="{b2a6d7e2-8706-4c03-bd2c-000d50899e0c}" height="9.0273" itemRotation="0" frame="false" pagex="186.113">
+        <ComposerItem pagey="21.5151" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="186.113" y="21.5151" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="11.1337" outlineWidth="0.3" excludeFromExports="0" uuid="{b2a6d7e2-8706-4c03-bd2c-000d50899e0c}" height="9.0273" itemRotation="0" frame="false" pagex="186.113">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -827,16 +827,64 @@
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="➤" htmlState="0" halign="1">
         <LabelFont description="Symbol,36,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="43.7824" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="184.608" y="43.7824" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="17.7537" outlineWidth="0.3" excludeFromExports="0" uuid="{aa201fb5-599e-417d-92ea-19374fed0312}" height="12.6382" itemRotation="270" frame="false" pagex="184.608">
+        <ComposerItem pagey="43.7824" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="184.608" y="43.7824" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="17.7537" outlineWidth="0.3" excludeFromExports="0" uuid="{aa201fb5-599e-417d-92ea-19374fed0312}" height="12.6382" itemRotation="270" frame="false" pagex="184.608">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="6694051.4423895226791501" xmin="25503529.91891293972730637" ymax="6695462.91106184292584658" xmax="25504985.91891442239284515"/>
+        <Extent ymin="6694051.4423895226791501" xmin="25503529.91891293972730637" ymax="6695462.90882429666817188" xmax="25504985.91891442239284515"/>
         <LayerSet/>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{5cbb6288-38bc-42c2-9d36-0ad39bf4cbda}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
         <ComposerItem pagey="16.7691" page="1" id="" lastValidViewScaleFactor="3.32325" positionMode="0" positionLock="true" x="17.07" y="16.7691" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="182.86" outlineWidth="0.3" excludeFromExports="0" uuid="{67f7c047-a82d-45b0-9136-22c2816cb705}" height="177.267" itemRotation="0" frame="false" pagex="17.07">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
@@ -2778,6 +2826,9 @@ def my_form_open(dialog, layer, feature):
         <edittype widgetv2type="TextEdit" name="Kuvaus">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
+        <edittype widgetv2type="TextEdit" name="Lyhenne">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
         <symbols>
@@ -3010,6 +3061,7 @@ def my_form_open(dialog, layer, feature):
         <alias field="id" index="0" name=""/>
         <alias field="Nimi" index="1" name=""/>
         <alias field="Kuvaus" index="2" name=""/>
+        <alias field="Lyhenne" index="3" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -3054,6 +3106,7 @@ def my_form_open(dialog, layer, feature):
         <default field="id" expression=""/>
         <default field="Nimi" expression=""/>
         <default field="Kuvaus" expression=""/>
+        <default field="Lyhenne" expression=""/>
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
@@ -3091,6 +3144,9 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
         <edittype widgetv2type="TextEdit" name="Kuvaus">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Lyhenne">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
@@ -3325,6 +3381,7 @@ def my_form_open(dialog, layer, feature):
         <alias field="id" index="0" name=""/>
         <alias field="Nimi" index="1" name=""/>
         <alias field="Kuvaus" index="2" name=""/>
+        <alias field="Lyhenne" index="3" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -3369,6 +3426,7 @@ def my_form_open(dialog, layer, feature):
         <default field="id" expression=""/>
         <default field="Nimi" expression=""/>
         <default field="Kuvaus" expression=""/>
+        <default field="Lyhenne" expression=""/>
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
@@ -3412,6 +3470,9 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
         <edittype widgetv2type="TextEdit" name="Text">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="Kerroksia">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
@@ -3641,6 +3702,7 @@ def my_form_open(dialog, layer, feature):
         <alias field="Linetype" index="2" name=""/>
         <alias field="EntityHand" index="3" name=""/>
         <alias field="Text" index="4" name=""/>
+        <alias field="Kerroksia" index="5" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -3689,6 +3751,7 @@ def my_form_open(dialog, layer, feature):
         <default field="Linetype" expression=""/>
         <default field="EntityHand" expression=""/>
         <default field="Text" expression=""/>
+        <default field="Kerroksia" expression=""/>
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
